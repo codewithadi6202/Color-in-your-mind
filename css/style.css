@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
+.mw-500{
+    max-width: 500px;
+}
+
+.f-manrope{
+    font-family: 'Manrope',sans-serif;
+}
+
+.br-cuz{
+    border-radius: 11px;
+}
